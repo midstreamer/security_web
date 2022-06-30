@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 657.3 652.5" style="enable-background:new 0 0 657.3 652.5;" xml:space="preserve">
+<style type="text/css">
+	.domainrenewal0{fill:none;stroke:#808080;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.domainrenewal1{fill:#EE5586;}
+	.domainrenewal2{fill:none;stroke:#EE5586;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.domainrenewal3{fill:none;stroke:#EE5586;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.domainrenewal4{fill:none;stroke:#EE5586;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<path class="domainrenewal0" d="M464.8,533.1H218.2 M218.3,434.1l-0.1,99 M533,408.4V225.3 M434,225.3h99"/>
+<g>
+	<path id="svg-ico" class="domainrenewal1" d="M410,533.1c0,3.3-2.7,6-6,6s-6-2.7-6-6s2.7-6,6-6C407.4,527.1,410,529.8,410,533.1z"/>
+		<animateMotion  accumulate="none" additive="replace" begin="0s" calcMode="paced" dur="2s" fill="remove" path="M0, 0 -185 0 -185 -100 -100" repeatCount="indefinite" restart="always">
+		</animateMotion>
+</g>
+<g>
+	<path id="svg-ico" class="domainrenewal1" d="M449.9,225.3c0,3.3-2.7,6-6,6s-6-2.7-6-6s2.7-6,6-6S449.9,221.9,449.9,225.3z"/>
+		<animateMotion  accumulate="none" additive="replace" begin="0s" calcMode="paced" dur="2s" fill="remove" path="M0, 0 90 0 90 180 90" repeatCount="indefinite" restart="always">
+		</animateMotion>
+</g>
+<path id="svg-concept" class="domainrenewal2" d="M434,218.3C434,99.2,337.4,2.5,218.2,2.5C99.1,2.5,2.4,99.2,2.4,218.3
+	c0,119.2,96.6,215.8,215.8,215.8S434,337.5,434,218.3z"/>
+<path id="svg-concept" class="domainrenewal3" d="M337.5,218.3c0-119.2-53.4-215.8-119.3-215.8S98.9,99.1,98.9,218.3s53.4,215.8,119.3,215.8
+	S337.5,337.5,337.5,218.3z"/>
+<path class="domainrenewal0" d="M46.6,90.2c42.8,31.7,103.8,51.6,171.6,51.6s128.9-19.9,171.6-51.6 M389.8,346.5
+	C347,314.8,286,294.9,218.2,294.9S89.3,314.8,46.6,346.5 M4.3,225.3H432 M218.2,4.1v427.7"/>
+<path id="svg-concept" class="domainrenewal4" d="M653.8,529.2c0-66.7-54.1-120.8-120.8-120.8s-120.8,54.1-120.8,120.8S466.3,650,533,650
+	S653.8,595.9,653.8,529.2z"/>
+<path id="svg-concept" class="domainrenewal3" d="M599.8,529.2c0-66.7-29.9-120.8-66.8-120.8s-66.8,54.1-66.8,120.8S496.1,650,533,650
+	S599.8,595.9,599.8,529.2z"/>
+<path class="domainrenewal0" d="M437,457.5c23.9,17.8,58.1,28.9,96.1,28.9c37.9,0,72.1-11.1,96.1-28.9 M629.1,600.9
+	C605.2,583.1,571,572,533,572c-37.9,0-72.1,11.1-96.1,28.9 M412.2,533.1h241.6 M533,408.4V650"/>
+</svg>

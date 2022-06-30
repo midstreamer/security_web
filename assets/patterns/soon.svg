@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="animaclock" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 644.6 630.5" style="enable-background:new 0 0 644.6 630.5;" xml:space="preserve">
+<style type="text/css">
+	.soon0{fill:none;stroke:#EE5586;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.soon1{fill:none;stroke:#808080;stroke-miterlimit:10;}
+	.soon2{fill:#EE5586;}
+	.soon3{fill:none;stroke:#EE5586;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.soon4{fill:none;stroke:#808080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.soon5{fill:none;stroke:#808080;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<path id="svg-concept" class="soon0" d="M153.4,233.3c41.9-74.3,121.5-124.4,212.8-124.4c134.8,0,244.1,109.3,244.1,244.1
+	S501,597.1,366.2,597.1c-90.7,0-169.9-49.5-212-123"/>
+<path class="soon1" d="M121.7,233.4c44.4-90.5,137.4-152.7,245-152.7c150.6,0,272.7,122.1,272.7,272.7v0
+	c0,150.6-122.1,272.7-272.7,272.7c-107.5,0-200.6-62.3-245-152.7"/>
+<path id="svg-ico" class="soon2" d="M373.5,597.1c0,3.3-2.7,6-6,6s-6-2.7-6-6s2.7-6,6-6S373.5,593.8,373.5,597.1z"/>
+<path class="soon1" d="M367.4,128.2v22.2"/>
+<path class="soon1" d="M413.2,133.4l-4.5,21.5 M457.8,147.9l-8.9,20.2 M498.3,171.3l-12.9,17.9 M533.1,202.7l-16.4,14.8 M560.6,240.5
+	l-19,11.1 M579.7,283.3l-20.9,6.9 M589.4,329.1l-21.8,2.3"/>
+<path class="soon1" d="M589.4,375.7l-20.1-2.1"/>
+<path class="soon1" d="M579.6,422l-20.7-6.7 M560.6,464.6l-18.7-10.8 M533,502.5l-16-14.4 M498.2,533.9l-12.6-17.4 M457.7,557.3
+	l-8.6-19.5 M413.3,571.7l-4.4-20.7 M200.1,202.2l16.2,14.7 M234.9,170.9l12.8,17.8 M275.3,147.5l8.9,20.2 M319.8,133.4l4.7,21.4"/>
+<path class="soon1" d="M366.2,576.6v-21.1"/>
+<path class="soon1" d="M320.1,571.5l4.2-20.4 M275.5,557l8.3-19 M235,533.5l12.1-16.8 M200.2,502.2l15.3-13.9"/>
+<g>
+	<path id="svg-concept" class="soon3" d="M367.4,175.5L366.8,353"/>
+	<animateTransform  accumulate="none" additive="replace" attributeName="transform" calcMode="linear" dur="3s" fill="remove" from="0 365 355" repeatCount="indefinite" restart="always" to="360 368 355" type="rotate">
+	</animateTransform>
+</g>
+<g>
+	<path id="svg-concept" class="soon3" d="M464.8,353h-98"/>
+	<animateTransform  accumulate="none" additive="replace" attributeName="transform" calcMode="linear" dur="10s" fill="remove" from="0 365 355" repeatCount="indefinite" restart="always" to="360 368 355" type="rotate">
+	</animateTransform>
+</g>
+<path id="svg-ico" class="soon2" d="M374.3,353c0,4.2-3.3,7.5-7.5,7.5s-7.5-3.3-7.5-7.5s3.3-7.5,7.5-7.5S374.3,348.8,374.3,353
+	z"/>
+<g>
+	<path class="soon4" d="M216.7,234.9h16.5c4.4,0,7.9,3.6,7.9,7.9v221.4c0,4.4-3.5,7.9-7.9,7.9H11.8c-4.4,0-7.9-3.5-7.9-7.9V242.8
+		c0-4.4,3.5-7.9,7.9-7.9H177L216.7,234.9L216.7,234.9z"/>
+	<path id="svg-ico" class="soon5" d="M3.9,392.5H241 M3.2,353.4h237.1 M3.2,431.6h237.1 M3.9,313.5H241 M83,313.8V472 M162,313.8V472
+		 M54.9,361l-24,24 M135.9,399.2l-24,24"/>
+	<g>
+		<circle id="svg-ico" class="soon2" cx="147.8" cy="364.8" r="5"/>
+		<animate  accumulate="none" additive="replace" attributeName="opacity" calcMode="linear" dur="1s" fill="remove" repeatCount="indefinite" restart="always" values="0;1;0">
+		</animate>
+	</g>
+</g>
+<path class="soon1" d="M381.8,62.1h-30.1c-0.8,0-1.4-0.6-1.4-1.4v-9.8c0-0.8,0.6-1.4,1.4-1.4h30.1c0.8,0,1.4,0.6,1.4,1.4v9.8
+	C383.2,61.4,382.5,62.1,381.8,62.1z M502.1,105.5L475.2,92c-0.7-0.3-1-1.2-0.6-1.9l4.4-8.8c0.3-0.7,1.2-1,1.9-0.6l26.9,13.5
+	c0.7,0.3,1,1.2,0.6,1.9l-4.4,8.8C503.7,105.6,502.8,105.9,502.1,105.5z M358.9,62.1v18.6h14.9V62.1"/>
+<path class="soon1" d="M358.9,75.1c-17.2-3.3-30.2-18.5-30.2-36.7c0-20.6,16.7-37.3,37.3-37.3s37.3,16.7,37.3,37.3
+	c0,17.9-12.6,32.9-29.5,36.5"/>
+</svg>

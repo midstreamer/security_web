@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1105.7 406" style="enable-background:new 0 0 1105.7 406;" xml:space="preserve">
+<style type="text/css">
+	.emailsecurity0{fill:none;stroke:#808080;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.emailsecurity1{fill:#FFFFFF;}
+	.emailsecurity2{fill:none;stroke:#EE5586;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+	.emailsecurity3{fill:none;stroke:#EE5586;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:12.0166,12.0166;}
+	.emailsecurity4{fill:#FFFFFF;stroke:#808080;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.emailsecurity5{fill:#FFFFFF;stroke:#EE5586;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<path class="emailsecurity0" d="M0.1,265.1h1105.5"/>
+<path class="emailsecurity1" d="M0.1,274.3h1105.5"/>
+<g>
+	<path id="svg-concept" class="emailsecurity2" d="M0.1,274.3h6"/>
+	<path id="svg-concept" class="emailsecurity3" d="M18.1,274.3h1075.5"/>
+	<path id="svg-concept" class="emailsecurity2" d="M1099.6,274.3h6"/>
+	
+		<animateMotion  accumulate="none" additive="replace" begin="0s" calcMode="paced" dur="3s" fill="remove" path="M0, 0 20 0 0 0" repeatCount="indefinite" restart="always">
+		</animateMotion>
+</g>
+<path class="emailsecurity0" d="M0.1,324.3h1105.5"/>
+<g>
+	<path class="emailsecurity1" d="M0.1,314h1105.5"/>
+	<path id="svg-concept" class="emailsecurity2" d="M0.1,314h6"/>
+	<path id="svg-concept" class="emailsecurity3" d="M18.1,314h1075.5"/>
+	<path id="svg-concept" class="emailsecurity2" d="M1099.6,314h6"/>
+		<animateMotion  accumulate="none" additive="replace" begin="0s" calcMode="paced" dur="3s" fill="remove" path="M0, 0 -20 0 0 0" repeatCount="indefinite" restart="always">
+		</animateMotion>
+</g>
+<g>
+	<path class="emailsecurity0" d="M40.6,211.2v-79.9c0-4.6,3.7-8.3,8.4-8.3h158.9c4.6,0,8.3,3.8,8.3,8.3v79.9"/>
+	<path class="emailsecurity0" d="M207.9,122.9l-79.5,58.6L49,122.9 M103.3,164.7l-36.1,46.5 M153.5,164.7l36.1,46.5"/>
+	<path class="emailsecurity0" d="M245.3,255.7H15.8c-1.7,0-3-1.4-3-3l-5-38.5c0-1.6,1.3-3,3-3h239.5c1.6,0,3,1.4,3,3l-5,38.5
+		C248.3,254.4,246.9,255.7,245.3,255.7z"/>
+	<g>
+		<path class="emailsecurity0" d="M462.9,211.2v-79.9h0.1c0-4.6,3.7-8.3,8.4-8.3h158.9c4.6,0,8.3,3.8,8.3,8.3v79.9"/>
+		<path class="emailsecurity0" d="M630.2,122.9l-79.5,58.6l-79.4-58.6 M525.7,164.7l-36.2,46.5 M575.8,164.7l36.2,46.5"/>
+		<path class="emailsecurity0" d="M667.6,255.7H438.1c-1.6,0-3-1.4-3-3l-5-38.5c0-1.6,1.4-3,3-3h239.5c1.6,0,3,1.4,3,3l-5,38.5
+			C670.6,254.4,669.3,255.7,667.6,255.7z"/>
+	</g>
+	<g>
+		<path class="emailsecurity0" d="M885.2,211.2v-79.9h0.1c0-4.6,3.7-8.3,8.4-8.3h158.9c4.6,0,8.3,3.8,8.3,8.3v79.9"/>
+		<path class="emailsecurity0" d="M1052.5,122.9l-79.4,58.6l-79.5-58.6 M948,164.7l-36.1,46.5 M998.2,164.7l36.1,46.5"/>
+		<path class="emailsecurity0" d="M1089.9,255.7H860.4c-1.7,0-3-1.4-3-3l-5-38.5c0-1.6,1.3-3,3-3h239.5c1.7,0,3,1.4,3,3l-5,38.5
+			C1092.9,254.4,1091.6,255.7,1089.9,255.7z"/>
+	</g>
+		<animateMotion  accumulate="none" additive="replace" begin="0s" calcMode="paced" dur="5s" fill="freeze" path="M0, 0 1440 0" restart="always">
+		</animateMotion>
+		<animateMotion  accumulate="none" additive="replace" begin="6s" calcMode="paced" dur="6s" fill="remove" path="M-1000, 0 1440 0" repeatCount="indefinite" restart="always">
+		</animateMotion>
+</g>
+<g>
+	<path class="emailsecurity0" d="M756.4,394.2H349.3c-10.9,0-19.9-9-19.9-19.9V29c0-10.9,9-19.9,19.9-19.9h407.1c10.9,0,19.9,9,19.9,19.9v345.3
+		C776.3,385.2,767.4,394.2,756.4,394.2L756.4,394.2z"/>
+	<path class="emailsecurity0" d="M366.5,54c-4-1.1-6.3-5.1-5.3-9.1c1.1-4,5.1-6.3,9.1-5.3s6.3,5.1,5.3,9.1C374.5,52.7,370.4,55,366.5,54z"/>
+	<path class="emailsecurity0" d="M367.7,49.5c-1.5-0.4-2.4-1.9-2-3.4s1.9-2.3,3.4-2c1.5,0.4,2.3,1.9,2,3.4C370.7,49,369.2,49.9,367.7,49.5z
+		 M366.5,54l1.2-4.5 M369.1,44.1l1.2-4.5 M366.5,363.4c-4-1.1-6.3-5.1-5.3-9.1c1.1-4,5.1-6.3,9.1-5.3s6.3,5.1,5.3,9.1
+		C374.5,362.1,370.4,364.4,366.5,363.4z"/>
+	<path class="emailsecurity0" d="M367.7,358.9c-1.5-0.4-2.4-1.9-2-3.4s1.9-2.3,3.4-2c1.5,0.4,2.3,1.9,2,3.4
+		C370.7,358.4,369.2,359.2,367.7,358.9z M366.5,363.4l1.2-4.6 M369.1,353.5l1.2-4.5 M734.3,54c-4-1.1-6.3-5.1-5.3-9.1
+		c1.1-4,5.1-6.3,9.1-5.3c4,1.1,6.3,5.1,5.3,9.1C742.3,52.7,738.3,55,734.3,54z"/>
+	<path class="emailsecurity0" d="M735.5,49.5c-1.5-0.4-2.4-1.9-2-3.4s1.9-2.3,3.4-2c1.5,0.4,2.3,1.9,2,3.4C738.5,49,737,49.9,735.5,49.5z
+		 M734.3,54l1.2-4.5 M736.9,44.1l1.2-4.5 M734.3,363.4c-4-1.1-6.3-5.1-5.3-9.1c1.1-4,5.1-6.3,9.1-5.3c4,1.1,6.3,5.1,5.3,9.1
+		C742.3,362.1,738.3,364.4,734.3,363.4z"/>
+	<path class="emailsecurity4" d="M735.5,358.9c-1.5-0.4-2.4-1.9-2-3.4s1.9-2.3,3.4-2c1.5,0.4,2.3,1.9,2,3.4C738.5,358.4,737,359.2,735.5,358.9z
+		 M734.3,363.4l1.2-4.6 M736.9,353.5l1.2-4.5"/>
+</g>
+<g>
+	<path id="svg-concept" class="emailsecurity5" d="M401.1,83.3h303.5"/>
+		<animateMotion  accumulate="none" additive="replace" begin="0s" calcMode="paced" dur="4s" fill="remove" path="M0, 150 0 0 0 150" repeatCount="indefinite" restart="always">
+		</animateMotion>
+</g>
+</svg>

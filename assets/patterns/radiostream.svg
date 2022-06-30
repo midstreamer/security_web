@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 646.6 652.5" style="enable-background:new 0 0 646.6 652.5;" xml:space="preserve">
+<style type="text/css">
+	.radiostream0{fill:none;stroke:#808080;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.radiostream1{fill:none;stroke:#EE5586;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.radiostream2{fill:none;stroke:#808080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.radiostream3{fill:none;stroke:#EE5586;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+		<ellipse transform="matrix(0.743 -0.6693 0.6693 0.743 -48.962 115.2305)" id="svg-concept" class="radiostream1" cx="125.6" cy="121.4" rx="109.2" ry="18.2"/>
+		<animate  accumulate="none" additive="replace" attributeName="opacity" begin="1s" calcMode="linear" dur="2s" fill="remove" repeatCount="indefinite" restart="always" values="0;3;0">
+		</animate>
+</g>
+<g>
+		<ellipse transform="matrix(0.743 -0.6693 0.6693 0.743 -17.9778 72.2493)" id="svg-concept" class="radiostream1" cx="85.1" cy="59.5" rx="48.7" ry="8"/>
+		<animate  accumulate="none" additive="replace" attributeName="opacity" begin="2s" calcMode="linear" dur="2s" fill="remove" repeatCount="indefinite" restart="always" values="0;3;0">
+		</animate>
+</g>
+<g>
+	<g>
+		<path class="radiostream0" d="M306.6,342.2l23.5,26.9 M336.1,315.3l19.5,24.3"/>
+		<path id="svg-concept" class="radiostream1" d="M155.2,156.2l21.1,33.5c1,1.7,3.2,2,4.6,0.6l21.4-20c1.4-1.3,1.3-3.7-0.3-4.7l-31.7-22.9
+			c-1.1-0.9-2.8-0.7-3.8,0.2l-10.7,9.4C154.5,153.3,154.3,155.1,155.2,156.2L155.2,156.2z M161.4,147.2l81.3,86.4 M202.3,170.3
+			l81.3,24.5 M202,271.4l-20-82.2"/>
+		<path class="radiostream2" d="M56.2,402.1l77.5,5.6 M109.1,356l67.8,15.6 M175.3,296.1l54.3,29.2 M319.3,160.5l24.2,57.4 M381,100l9.5,70.1
+			 M427.1,53.3l1,75.7 M463.7,9.3l-7.1,84.6C408.9,163.1,194,365.6,93.9,438.7c0,0-87.1-0.3-86.1-0.7"/>
+		<path class="radiostream2" d="M456.5,93.9l-24,97.1l-52.7,80.5l-45.6,45.7l-16,14.6l-49.6,44.8L190,419.6l-96.1,19.1 M190,419.6
+			c58.1-40.3,205.1-178,242.6-228.6"/>
+		<path id="svg-concept" class="radiostream3" d="M257.4,186.9C369.6,82.3,459.5,5,463.7,9.3c4.6,4.9-93.9,104.7-219.7,223
+			S12.4,442.7,7.8,437.8c-4.2-4.5,77.6-88.1,187.8-192.9"/>
+		<g>
+			<path class="radiostream0" d="M357.4,362.2c0,4.3-3.5,7.7-7.7,7.7c-4.3,0-7.7-3.5-7.7-7.7s3.5-7.7,7.7-7.7
+				C354.1,354.5,357.4,357.8,357.4,362.2z"/>
+			<path class="radiostream0" d="M352.6,362.2c0,1.6-1.3,2.9-2.9,2.9s-2.9-1.3-2.9-2.9s1.3-2.9,2.9-2.9S352.6,360.6,352.6,362.2z
+				 M357.4,362.2h-4.8 M346.8,362.2H342"/>
+			<path class="radiostream0" d="M361.1,402.9h-23c-4.5,0-8.2-3.7-8.2-8.2v-47.1c0-4.5,3.7-8.2,8.2-8.2h23c4.5,0,8.2,3.7,8.2,8.2v47.1
+				C369.3,399.3,365.6,402.9,361.1,402.9z M339.1,402.9h21.2V543h-21.2V402.9z"/>
+			<path class="radiostream0" d="M372.9,504.6v-10.3l-12.5-4.8h-21.2l-12.1,2.9l-0.2,12.5 M339.1,519.2h21.2 M326.9,500.8l-116.4,71.4
+				 M226.3,575.5l-15.8-3.4 M312.6,520.8l-86.3,54.7 M193.3,572.9v7.1 M228.5,587.9l-35.2-7.9 M216,568.6c-0.3,0.2-5.1-0.8-5.1-0.8
+				l-17.5,5.1l35.4,7.9"/>
+			<path class="radiostream0" d="M232.4,571.6l10.6,1.3v6.8l-14.5,8.2v-7.1l14.5-7.9 M327.2,504.6l-109.6,123 M339.1,502.7L228.8,629
+				 M339.1,519.2l-90.8,104.2 M327.2,504.6l11.9-2.6 M217.6,627.6l11.1,1.8 M248.3,623.4l-19.6,5.9 M199.9,628.9v8.4l25.9,5.5v-8.8
+				L199.9,628.9z"/>
+			<path class="radiostream0" d="M225.8,642.7c0,0,30.9-8.5,31.2-9.2v-8.4l-31.2,8.7 M222.1,622.4l-22.2,6.4 M248.3,623.4l8.8,1.8
+				 M360.3,519.2l120.9,101 M360.3,502.7l145,122.2 M372.9,504.6l139.9,117 M459.7,568.3l-86.8-63.7 M474.3,568.3l-18-2.6
+				 M454.5,573.1l19.8-4.8 M474.3,574.9v-6.6 M461.6,577.8l12.7-2.9 M459.7,568.3l-7.7,1.9 M512.7,621.6l-7.4,3.2 M481.2,620.2
+				l24.1,4.7 M468,622.6c0,0-0.2,9.2,0,9s42,9.2,42,9.2v-9.5L468,622.6z M479.3,618.6l-11.3,4 M532.5,620.2L510,631.3 M532.5,628.4
+				L510,640.8 M532.5,620.2v8.2 M509,617.9l23.5,2.3 M339.1,543.2l-8.5,2.4v9.5l13.7,3.7h10.3c1,0,14-4.2,14-4.2v-8.2l-8.2-3.2
+				 M339.1,557.3v-14.1 M360.3,543.2v14.1 M360.3,502.7l12.5,1.9"/>
+		</g>
+	</g>
+	<line class="radiostream0" x1="13" y1="623.3" x2="131.6" y2="623.3"/>
+	<line class="radiostream0" x1="68.3" y1="602.3" x2="240.2" y2="602.3"/>
+	<line class="radiostream0" x1="266.7" y1="602.3" x2="364.1" y2="602.3"/>
+	<line class="radiostream0" x1="531" y1="533.9" x2="635.1" y2="533.9"/>
+	<line class="radiostream0" x1="416.3" y1="520.8" x2="583.4" y2="520.8"/>
+</g>
+</svg>

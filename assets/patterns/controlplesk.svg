@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 608.9 468" style="enable-background:new 0 0 608.9 468;" xml:space="preserve">
+<style type="text/css">
+	.controlplesk0{fill:none;stroke:#808080;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.controlplesk1{fill:none;stroke:#EE5586;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.controlplesk2{fill:#808080;}
+	.controlplesk3{fill:#EE5586;}
+</style>
+<path class="controlplesk0" d="M55,56.7V22.1c0-8.9,7.3-16.2,16.2-16.2h511.9c9,0,16.2,7.3,16.2,16.2v374.4c0,9-7.3,16.2-16.2,16.2h-29.6"/>
+<path class="controlplesk0" d="M25.4,58.2h511.9c9,0,16.2,7.3,16.2,16.2v374.4c0,9-7.3,16.2-16.2,16.2H25.4c-9,0-16.2-7.3-16.2-16.2V74.4
+	C9.2,65.5,16.4,58.2,25.4,58.2z"/>
+<path id="svg-concept" class="controlplesk1" d="M53.9,129.5h458.9v47.2H53.9V129.5z"/>
+<path id="svg-concept" class="controlplesk1" d="M68.7,83.7c0,2.4-1.9,4.3-4.3,4.3s-4.3-1.9-4.3-4.3s1.9-4.3,4.3-4.3C66.7,79.4,68.7,81.3,68.7,83.7z"/>
+<path class="controlplesk0" d="M89.3,83.7c0,2.4-1.9,4.3-4.3,4.3s-4.3-1.9-4.3-4.3s1.9-4.3,4.3-4.3C87.3,79.4,89.3,81.3,89.3,83.7z
+	 M109.9,83.7c0,2.4-1.9,4.3-4.3,4.3s-4.3-1.9-4.3-4.3s1.9-4.3,4.3-4.3C107.9,79.4,109.9,81.3,109.9,83.7z M10.4,103.9h541.7
+	 M53.9,194.4h81.9v12.8H53.9V194.4z M172.2,252.6h133.7v12.8H172.2V252.6z M154.8,194.3h357.1v12.8H154.8V194.3z M53.9,227.9h81.8
+	 M172.2,227.9h94.9 M154.8,207.7v229.1 M53.9,251.1h81.8 M342.2,147.8h149.2 M374.1,158.1h117.3"/>
+<path id="svg-concept" class="controlplesk1" d="M173.3,320.1h32.9v28.7h-32.9L173.3,320.1z"/>
+<path class="controlplesk0" d="M292.2,320.1h32.9v28.7h-32.9V320.1z M410.9,320.1h32.9v28.7h-32.9V320.1z M173.3,361.3h32.9v28.6h-32.9
+	L173.3,361.3z M232.1,320.1H265v28.7h-32.9V320.1z"/>
+<g>
+	<path id="svg-concept" class="controlplesk1" d="M232.1,361.3H265v28.6h-32.9V361.3z"/>
+	
+		<animate  accumulate="none" additive="replace" attributeName="opacity" calcMode="linear" dur="1s" fill="remove" repeatCount="indefinite" restart="always" values="0;1;0">
+		</animate>
+	
+		<animate  accumulate="none" additive="replace" attributeName="fill" begin="0s" calcMode="linear" dur="1s" fill="freeze" from="#ffffff" restart="always" to="#ee5486">
+		</animate>
+</g>
+<g>
+	<path id="svg-concept" class="controlplesk1" d="M352.6,320.1h32.9v28.7h-32.9V320.1z"/>
+	
+		<animate  accumulate="none" additive="replace" attributeName="opacity" calcMode="linear" dur="1s" fill="remove" repeatCount="indefinite" restart="always" values="0;1;0">
+		</animate>
+	
+		<animate  accumulate="none" additive="replace" attributeName="fill" begin="0.5s" calcMode="linear" dur="1s" fill="freeze" from="#ffffff" restart="always" to="#ee5486">
+		</animate>
+</g>
+<path class="controlplesk0" d="M292.2,361.3h32.9v28.6h-32.9V361.3z M352.6,361.3h32.9v28.6h-32.9V361.3z"/>
+<path id="svg-concept" class="controlplesk1" d="M410.8,361.3h32.9v28.6h-32.9V361.3z"/>
+<path class="controlplesk0" d="M475.1,320.1H508v28.7h-32.9V320.1z M173.3,403.5h32.9v28.7h-32.9L173.3,403.5z M292.2,403.5h32.9v28.7h-32.9
+	V403.5z M410.9,403.5h32.9v28.7h-32.9V403.5z M232.1,403.5H265v28.7h-32.9V403.5z"/>
+<path id="svg-concept" class="controlplesk1" d="M352.6,403.5h32.9v28.7h-32.9V403.5z"/>
+<path class="controlplesk0" d="M475.1,403.5H508v28.7h-32.9V403.5z M474.9,361.3h32.9v28.6h-32.9V361.3z M53.9,274.3h81.8 M53.9,297.4h81.8
+	 M53.9,320.6h81.8"/>
+<path class="controlplesk0" d="M53.9,343.8h81.8 M53.9,367h81.8 M172.2,279.7h156.3 M172.2,290.1h238.6"/>
+<path class="controlplesk0" d="M53.9,398.2h35.9 M53.9,408.5h35.9 M53.9,418.9h35.9 M53.9,429.3h35.9 M100,398.2h36 M100,408.5h36"/>
+<path class="controlplesk0" d="M100,418.9h36 M100,429.3h36"/>
+<path class="controlplesk2" d="M74.2,169.3h-2.3v-24.1c1.9-0.6,3.8-0.9,5.7-0.9c1.3,0,2.6,0.2,3.7,0.6c1.1,0.4,2.1,1,2.8,1.8
+	c0.8,0.8,1.4,1.6,1.8,2.7c0.4,1,0.6,2.2,0.6,3.4c0,1.5-0.3,2.8-0.8,3.8c-0.5,1.1-1.2,1.9-2,2.6c-0.8,0.7-1.8,1.2-2.8,1.5
+	c-1.1,0.3-2.1,0.5-3.3,0.5c-0.6,0-1.2,0-1.8-0.1c-0.6-0.1-1.1-0.2-1.7-0.4v8.6L74.2,169.3z M83.9,152.8c0-1.9-0.5-3.5-1.6-4.7
+	s-2.6-1.8-4.5-1.8c-0.6,0-1.2,0-1.8,0.1c-0.6,0.1-1.2,0.2-1.8,0.4v11.7c0.5,0.2,1.1,0.3,1.6,0.4c0.6,0.1,1.1,0.2,1.6,0.2
+	c2,0,3.5-0.6,4.7-1.7C83.4,156.5,83.9,154.9,83.9,152.8 M91.2,137.9h2.3v23.2h-2.3V137.9z M112.5,158.7c-0.8,0.8-1.7,1.5-2.7,1.9
+	s-2.2,0.6-3.7,0.6c-1.3,0-2.5-0.2-3.5-0.7s-1.8-1.1-2.5-1.8c-0.7-0.8-1.2-1.7-1.5-2.7s-0.5-2-0.5-3.2c0-1.5,0.2-2.7,0.6-3.8
+	s0.9-2,1.6-2.7s1.5-1.2,2.4-1.6c0.9-0.3,1.9-0.5,2.9-0.5c2.4,0,4.3,0.7,5.5,2.2s1.8,3.7,1.8,6.5h-12.4c0.1,1.9,0.6,3.4,1.6,4.5
+	s2.4,1.7,4.2,1.7c1,0,1.9-0.2,2.7-0.5c0.8-0.3,1.5-0.8,2.2-1.5L112.5,158.7z M110.7,151.1c0-0.7-0.1-1.3-0.3-1.9
+	c-0.2-0.6-0.5-1.1-0.9-1.5s-0.9-0.8-1.5-1c-0.6-0.3-1.3-0.4-2.2-0.4c-0.8,0-1.6,0.1-2.2,0.4c-0.6,0.3-1.1,0.6-1.4,1
+	c-0.4,0.4-0.7,0.9-1,1.5s-0.5,1.3-0.6,2h10.1V151.1z M128.2,148.4c-0.6-0.7-1.2-1.3-1.9-1.6c-0.7-0.3-1.5-0.5-2.4-0.5
+	c-1.2,0-2,0.2-2.5,0.6c-0.5,0.4-0.7,1-0.7,1.6c0,0.4,0.1,0.8,0.3,1.1c0.2,0.3,0.5,0.6,0.9,0.8s0.8,0.4,1.3,0.6
+	c0.5,0.2,1,0.3,1.5,0.5c0.6,0.2,1.3,0.4,1.9,0.6c0.6,0.2,1.2,0.5,1.7,0.9s0.9,0.8,1.3,1.4c0.3,0.5,0.5,1.2,0.5,2s-0.2,1.4-0.5,2
+	s-0.8,1.1-1.3,1.5c-0.6,0.4-1.2,0.7-2,0.9s-1.6,0.3-2.4,0.3c-1.3,0-2.5-0.2-3.5-0.6c-1-0.4-2-1.1-2.9-2.1l1.8-1.6
+	c1.2,1.5,2.8,2.3,4.7,2.3c1.3,0,2.2-0.2,2.8-0.7c0.6-0.5,0.9-1,0.9-1.7c0-0.5-0.1-0.9-0.3-1.3c-0.2-0.3-0.5-0.6-0.9-0.9
+	c-0.4-0.2-0.8-0.4-1.3-0.6c-0.5-0.2-1-0.3-1.6-0.5s-1.2-0.4-1.9-0.6c-0.6-0.2-1.2-0.5-1.7-0.8s-0.9-0.8-1.2-1.3
+	c-0.3-0.5-0.5-1.2-0.5-2c0-1.5,0.5-2.6,1.6-3.4c1.1-0.8,2.4-1.2,4.1-1.2c1.2,0,2.3,0.2,3.2,0.6c0.9,0.4,1.8,1.1,2.7,2.1L128.2,148.4
+	L128.2,148.4z M134.4,137.9h2.3v23.2h-2.3V137.9z M136.7,152.5l8-8h3.1l-8.2,8l8.1,8.6h-3.2L136.7,152.5L136.7,152.5z M85.3,167.2
+	h14v2.2h-14V167.2z"/>
+<g>
+	<path id="svg-ico" class="controlplesk3" d="M506.1,103.9c0,2.2-1.8,4-4,4s-4-1.8-4-4s1.8-4,4-4S506.1,101.7,506.1,103.9z"/>
+		<animateMotion  accumulate="none" additive="replace" begin="0s" calcMode="paced" dur="12s" fill="remove" path="M40, 0 -490 0 45 0" repeatCount="indefinite" restart="always">
+		</animateMotion>
+</g>
+</svg>
